@@ -53,7 +53,7 @@
     "@fontsource/inconsolata": "4.5.0",
     "@fontsource/roboto": "4.5.1",
     "@fontsource/roboto-mono": "4.5.0",
-    "@fontsource/ubuntu": "4.5.0",
+    "@fontsource/ubuntu": "4.5.9",
     "core-js": "3.19.3",
     "country-code-lookup": "0.0.19",
     "flag-icon-css": "3.5.0",
