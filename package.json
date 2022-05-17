@@ -96,7 +96,7 @@
     "eslint-plugin-compat": "4.0.0",
     "eslint-plugin-rxjs": "4.0.3",
     "gts": "3.1.0",
-    "husky": "7.0.4",
+    "husky": "8.0.1",
     "jest": "27.3.1",
     "jest-preset-angular": "11.0.1",
     "js-beautify": "1.14.0",
