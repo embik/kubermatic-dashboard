@@ -91,7 +91,7 @@
     "@types/node": "16.11.12",
     "browserlist": "1.0.1",
     "cypress": "8.7.0",
-    "cypress-fail-fast": "3.3.0",
+    "cypress-fail-fast": "5.0.0",
     "del": "6.0.0",
     "eslint-plugin-compat": "4.0.0",
     "eslint-plugin-rxjs": "4.0.3",
