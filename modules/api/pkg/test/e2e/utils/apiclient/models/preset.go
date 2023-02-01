@@ -25,6 +25,9 @@ type Preset struct {
 	// name
 	Name string `json:"name,omitempty"`
 
+	// projects
+	Projects []string `json:"projects"`
+
 	// providers
 	Providers []*PresetProvider `json:"providers"`
 }

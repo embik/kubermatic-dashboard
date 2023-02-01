@@ -137,6 +137,7 @@ type Preset struct {
 	Name      string           `json:"name"`
 	Enabled   bool             `json:"enabled"`
 	Providers []PresetProvider `json:"providers"`
+	Projects  []string         `json:"projects"`
 }
 
 // PresetBody represents the body of a created preset

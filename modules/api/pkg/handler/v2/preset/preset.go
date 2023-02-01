@@ -912,7 +912,7 @@ func newAPIPreset(preset *kubermaticv1.Preset, enabled bool) apiv2.Preset {
 		}
 	}
 
-	return apiv2.Preset{Name: preset.Name, Enabled: enabled, Providers: providers}
+	return apiv2.Preset{Name: preset.Name, Enabled: enabled, Providers: providers, Projects: preset.Spec.Projects}
 }
 
 func convertAPIToInternalPreset(preset apiv2.PresetBody) *kubermaticv1.Preset {

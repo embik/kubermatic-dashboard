@@ -37919,6 +37919,13 @@
           "type": "string",
           "x-go-name": "Name"
         },
+        "projects": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "x-go-name": "Projects"
+        },
         "providers": {
           "type": "array",
           "items": {
